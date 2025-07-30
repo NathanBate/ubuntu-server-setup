@@ -39,4 +39,8 @@ gh clone <git_username>/<repo_name> # if someone else's repo
 gh repo create <repo_name> # if public
 gh repo create <repo_name> --private
 ```
+## C Programming
 
+```
+sudo apt install gcc
+```
