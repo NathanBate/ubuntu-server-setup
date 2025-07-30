@@ -32,4 +32,11 @@ gh auth login
 
 ### Commands
 
+```
+gh repo list <username>
+gh clone <repo_name> # if one of your repos
+gh clone <git_username>/<repo_name> # if someone else's repo
+gh repo create <repo_name> # if public
+gh repo create <repo_name> --private
+```
 
